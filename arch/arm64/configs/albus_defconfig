@@ -1363,6 +1363,10 @@ CONFIG_FUSB302=y
 # CONFIG_SENSORS_STML0XX is not set
 # CONFIG_CAPSENSE_CYPRESS is not set
 
+#
+# Moto DTV drivers
+#
+CONFIG_DTV_FC8300=y
 
 #
 # SCSI device support
